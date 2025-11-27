@@ -24,8 +24,6 @@ It bridges the gap between being a "coder" and an "engineer".
 
 👉 Get the Full AI-First Workshop (PDF + Guide) Here: https://bit.ly/4omC346
 
-<img width="468" height="15" alt="image" src="https://github.com/user-attachments/assets/32899171-8cfa-4cca-a3d1-de3da6b8e758" />
-
 
 Perfect for university students, self-learners, and anyone tired of "magic" buttons.
 
@@ -40,5 +38,7 @@ Install dependencies:
 Bash
 
 pip install -r requirements.txt
+
 Run the examples...
+
 Created by Tetiana, University Educator & Author.
