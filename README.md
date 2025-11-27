@@ -13,7 +13,7 @@ Recommendation Engines: How simple Lists and Hash Maps create the foundation for
 
 Gradient Descent: Visualizing optimization algorithms from scratch, without the "magic" of heavy libraries.
 
-(Add any other specific folders/topics you have in your code here)
+
 
 📘 The "AI-First" Workshop (Full Guide)
 The code in this repository is part of the "AI-First: Algorithms and Data Structures as the Foundation of AI" curriculum.
@@ -22,7 +22,10 @@ If you feel lost looking at the code, or if you want to understand the logic and
 
 It bridges the gap between being a "coder" and an "engineer".
 
-👉 Get the Full AI-First Workshop (PDF + Guide) Here
+👉 Get the Full AI-First Workshop (PDF + Guide) Here: https://bit.ly/4omC346
+
+<img width="468" height="15" alt="image" src="https://github.com/user-attachments/assets/32899171-8cfa-4cca-a3d1-de3da6b8e758" />
+
 
 Perfect for university students, self-learners, and anyone tired of "magic" buttons.
 
@@ -31,7 +34,7 @@ Clone the repository:
 
 Bash
 
-git clone https://github.com/your-username/your-repo-name.git
+git clone https://github.com/tinosenko/AI-First-Lab.git
 Install dependencies:
 
 Bash
